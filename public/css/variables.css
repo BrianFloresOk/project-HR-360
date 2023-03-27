@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Patua+One&family=Raleway&family=Roboto&family=Ubuntu&display=swap');
+
+:root{
+    --azulOscuro: #1C3470;
+    --azulOpaco: #3E4C70;
+    --celesteClaro: #85A4F2;
+    --celeste: #3D70F0;
+    --gris: #DDDDDD;
+    --grisOscuro: #363636;
+    --blancoHueso: #EDEDED;
+
+    /* Fuentes */
+    --oswald: 'Oswald', sans-serif;
+    --patuaOne: 'Patua One', cursive;
+    --raleway: 'Raleway', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+    --ubuntu: 'Ubuntu', sans-serif;
+}
